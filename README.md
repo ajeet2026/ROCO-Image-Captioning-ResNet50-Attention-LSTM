@@ -6,7 +6,7 @@
 
 **Author:** Ajeet Kumar
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -30,7 +30,7 @@
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Future Scope](#future-scope)
-- [License](#license)
+
 - [Author](#author)
 
 ---
@@ -110,7 +110,7 @@ Image-Captioning-using-Deep-Learning/
 │
 ├── image-captioning-banner.svg  → Project banner graphic
 ├── image-captioning-logo.svg    → Project logo
-├── LICENSE                      → MIT License
+
 ├── Image-Captioning-CONTRIBUTING.md → Contribution guidelines
 ├── Image-Captioning-SECURITY.md     → Security policy
 └── README.md                    → This file
@@ -341,11 +341,6 @@ print(f"Generated Caption: {caption}")
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Author
 
