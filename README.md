@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./image-captioning-banner.svg" alt="Image Captioning using Deep Learning" width="100%"/>
-</p>
-
 # Image Captioning on Medical Images using Deep Learning
 
 **Author:** Ajeet Kumar
@@ -108,8 +104,7 @@ Image-Captioning-using-Deep-Learning/
 │   ├── Image_Captioning_Presentation.pptx    → Project presentation slides
 │   └── InfosysSpringboard Internship 4.docx  → Internship documentation
 │
-├── image-captioning-banner.svg  → Project banner graphic
-├── image-captioning-logo.svg    → Project logo
+
 
 ├── Image-Captioning-CONTRIBUTING.md → Contribution guidelines
 ├── Image-Captioning-SECURITY.md     → Security policy
@@ -350,8 +345,3 @@ This project demonstrates the application of deep learning techniques to the cha
 
 ---
 
-<p align="center">
-  <img src="./image-captioning-logo.svg" alt="Image Captioning Logo" width="80"/>
-  <br/>
-  <em>Generating meaningful descriptions for medical images through deep learning.</em>
-</p>
