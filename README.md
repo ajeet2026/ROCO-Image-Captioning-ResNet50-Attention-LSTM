@@ -28,7 +28,6 @@
 - [Training Details](#training-details)
 - [Evaluation Metrics & Results](#evaluation-metrics--results)
 - [Dependencies](#dependencies)
-- [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Future Scope](#future-scope)
 - [License](#license)
@@ -285,51 +284,6 @@ jupyter
 
 ---
 
-## Setup and Installation
-
-To run this project locally, follow these steps:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/ajeetkumar/Image-Captioning-using-Deep-Learning.git
-cd Image-Captioning-using-Deep-Learning
-```
-
-### 2. Create a Virtual Environment (Recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install tensorflow keras numpy pandas matplotlib opencv-python Pillow nltk scikit-learn tqdm jupyter
-```
-
-### 4. Download NLTK Data
-
-```python
-import nltk
-nltk.download('punkt')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-```
-
-### 5. Download the ROCO Dataset
-
-Download the ROCO dataset from the [official repository](https://github.com/razorx89/roco-dataset) and place it in your preferred directory. Update the dataset paths in the notebooks accordingly.
-
-### 6. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
 ## Usage
 
 ### Running the Full Pipeline
@@ -397,7 +351,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Ajeet Kumar**
 
-Built as part of the Infosys Springboard Internship program. This project demonstrates the application of deep learning techniques to the challenging task of medical image captioning, combining state-of-the-art computer vision and natural language processing methods.
+This project demonstrates the application of deep learning techniques to the challenging task of medical image captioning, combining state-of-the-art computer vision and natural language processing methods.
 
 ---
 
